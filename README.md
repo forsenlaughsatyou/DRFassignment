@@ -1,7 +1,7 @@
 # DRFassignment
 
 I had trouble changing  authorization permission by using user model fields. 
-So the assignment is not complete.
+So the assignment is  incomplete.
 url routes 
 registration : api/user/register/
 login : api/user/login/
